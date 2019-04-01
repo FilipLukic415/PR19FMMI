@@ -21,3 +21,5 @@ Testiram se enkrat ce dela
 
 
 Še Baša testira..
+
+Matej Rus testera 
