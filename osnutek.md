@@ -20,3 +20,4 @@ Testiranje ce dela
 Testiram se enkrat ce dela
 
 
+Še Baša testira..
