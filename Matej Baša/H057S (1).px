@@ -1,0 +1,48 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="windows-1250";
+LANGUAGE="sl";
+CREATION-DATE="20140905 10:30";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="H057";
+SUBJECT-AREA="Transport - Transport";
+SUBJECT-CODE="H057";
+DESCRIPTION="Osebni avtomobili in prve registracije novih osebnih avtomobilov, Slovenija, letno";
+TITLE="Osebni avtomobili in prve registracije novih osebnih avtomobilov po:"
+"MERITVE , LETO";
+CONTENTS="Osebni avtomobili in prve registracije novih osebnih avtomobilov";
+UNITS="Število";
+STUB="MERITVE";
+HEADING="LETO";
+VALUES("MERITVE")="Število osebnih avtomobilov na dan 31. 12.","Število prvih registracij novih osebnih avtomobilov";
+VALUES("LETO")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017";
+TIMEVAL("LETO")=TLIST(A1),"2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017";
+CODES("MERITVE")="1","2";
+CODES("LETO")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017";
+LAST-UPDATED="20180523 10:30";
+SOURCE="Ministrstvo za infrastrukturo, SURS";
+CONTACT="Nataša Gostiša#Tel.: 01 2415 220#El. pošta: natasa.gostisa@gov.si";
+COPYRIGHT=YES;
+DATABASE="SI-STAT";
+NOTEX="Vir: Ministrstvo za infrastrukturo, SURS#";
+NOTE="Povezane vsebine:#- <A class=seznam HREF=http://www.stat.si/StatWeb/Common/PrikaziDokument.ashx?IdDatoteke=8193 target=_blank>Metodološka pojasnila</A>##";
+DATASYMBOL1="N";
+DATASYMBOL2="-";
+DATASYMBOL3="...";
+DATASYMBOL4="z";
+DATA=
+933941 960213 
+980261 1014122 
+1045183 1058858 
+1061646 1066495 
+1066028 1063795 
+1068362 1078737 
+1096523 1117935 
+62697 60531 
+59885 67791 
+71037 57391 
+60777 59813 
+49700 51968 
+54086 60668 
+64899 72477;
