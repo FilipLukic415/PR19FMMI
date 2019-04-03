@@ -1,5 +1,11 @@
+Imena kandidatov:
+Filip Lukić
+Matej Baša
+Ilaria Lauriola
+Matej Rus
 
-
+Viri:
+https://podatki.gov.si/
 
 V nasi raziskavi smo obravnavali podrocje prometa.
 
@@ -24,3 +30,12 @@ Ugotovili smo da se je število nesreč od leta 2003 do leta 2014 razpolovilo, �
 pa se povečuje z letom.
 
 To pomeni da je stanje na cestah v primeri z vsemi preteklimi leti, najvarnejše.
+
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/Delez%20nesrec%20po%20mesecih.PNG)
+
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/chart.png)
+
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/npersonkilled.png)
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/SteviloNesrecPolLetih.PNG)
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/noviVozniki.JPG)
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/vsiVozniki.JPG)
