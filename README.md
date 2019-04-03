@@ -1,11 +1,11 @@
-Imena kandidatov:
-Filip Lukić
-Matej Baša
-Ilaria Lauriola
-Matej Rus
+Analiza prometa v Sloveniji
 
-Viri:
-https://podatki.gov.si/
+Sodelujoči:
+- Filip Lukić
+- Matej Baša
+- Ilaria Lauriola
+- Matej Rus
+
 
 V nasi raziskavi smo obravnavali podrocje prometa.
 
@@ -39,3 +39,5 @@ To pomeni da je stanje na cestah v primeri z vsemi preteklimi leti, najvarnejše
 ![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/SteviloNesrecPolLetih.PNG)
 ![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/noviVozniki.JPG)
 ![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/vsiVozniki.JPG)
+
+![alt text](https://raw.githubusercontent.com/FilipLukic415/PR19FMMI/master/SteviloNesrec.png)
