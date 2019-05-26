@@ -42,7 +42,7 @@ plt.xlabel('Year')
 plt.title('Number of person killed in road traffic accidents')
 
 plt.figure(figsize=(8, 6))
-p3 = plt.bar(y,t, color='magenta', align='center')
+p3 = plt.bar(y,t, color='red', align='center')
 plt.ylabel('Total Number of person involved')
 plt.xlabel('Year')
 plt.title('Number of person involved in road traffic accidents')
