@@ -14,6 +14,7 @@ u=data[:,6]; #people killed
 i=data[:,7];
 j=data[:,8];
 k=data[:,9];
+t=data[:,5];
 
 
 %matplotlib inline
@@ -40,6 +41,12 @@ plt.ylabel('Number of person killed')
 plt.xlabel('Year')
 plt.title('Number of person killed in road traffic accidents')
 
+plt.figure(figsize=(8, 6))
+p3 = plt.bar(y,t, color='magenta', align='center')
+plt.ylabel('Total Number of person involved')
+plt.xlabel('Year')
+plt.title('Number of person involved in road traffic accidents')
+
 bar_width = 0.2;
 
 plt.figure(figsize=(8, 6))
@@ -47,7 +54,7 @@ plt.bar(y,u, width=bar_width, color='green', zorder=2)
 plt.bar(y + bar_width,i, width=bar_width, color='red', zorder=2)
 plt.bar(y +bar_width*2,j, width=bar_width, color='orange', zorder=2)
 plt.bar(y+bar_width*3,k, width=bar_width, color='blue', zorder=2)
-plt.ylabel('Number of person involved in accidents')
+plt.ylabel('Number of person involved in accidents, splitted by categories')
 plt.xlabel('Year')
 
 green_patch=mpatches.Patch(color='green',label='killed')
